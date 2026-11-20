@@ -2,7 +2,7 @@
 # MODULE 1: Data Initialization & Pre-Filtering
 # AUTHOR: Kuncha Shashidhar
 # 
-# 🧬 ABOUT THE DATA:
+# ABOUT THE DATA:
 # Format: Raw Count Matrix (.csv or .tsv) and Metadata
 # Description: Unlike microarrays which use continuous intensity values, 
 #              RNA-Seq uses discrete raw read counts (e.g., from featureCounts 
